@@ -14,7 +14,7 @@ Perguntas de negócio
 
 Essas perguntas ajudam a explorar o desempenho comercial, a distribuição geográfica e o andamento das entregas.
 
-
+![Dashboard](Screenshot_20261016-081534_Chrome.png)
 
 📸 Evidências da dashboard
 
