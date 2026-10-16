@@ -14,6 +14,18 @@ Perguntas de negócio
 
 Essas perguntas ajudam a explorar o desempenho comercial, a distribuição geográfica e o andamento das entregas.
 
+
+📸 Evidências da dashboard
+
+Visão geral
+
+Dashboard Porsche Garage (Screenshot_20261016-081534_Chrome.png)
+
+Exemplo de filtro aplicado
+
+Dashboard com filtro aplicado
+
+
 Uso da IA e evolução do prompt
 
 Utilizei o ChatGPT para gerar e refinar uma dashboard em HTML, CSS e JavaScript a partir de uma planilha de vendas Porsche.
