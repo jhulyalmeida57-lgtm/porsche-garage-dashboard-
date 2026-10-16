@@ -19,11 +19,11 @@ Essas perguntas ajudam a explorar o desempenho comercial, a distribuição geogr
 
 Visão geral
 
-Dashboard Porsche Garage (Screenshot_20261016-081534_Chrome.png)
+Dashboard Porsche Garage
+(Screenshot_20261016-081534_Chrome.png)
 
-Exemplo de filtro aplicado
-
-Dashboard com filtro aplicado
+Exemplo de filtro aplicado 
+(Screenshot_20261016-081615_Chrome.png)
 
 
 Uso da IA e evolução do prompt
