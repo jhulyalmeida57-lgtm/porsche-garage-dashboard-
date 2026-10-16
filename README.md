@@ -15,6 +15,18 @@ Perguntas de negócio
 Essas perguntas ajudam a explorar o desempenho comercial, a distribuição geográfica e o andamento das entregas.
 
 
+
+📸 Evidências da dashboard
+
+Visão geral
+
+"Dashboard Porsche Garage" (./Screenshot_20261016-081534_Chrome.png)
+
+Exemplo de filtro aplicado
+
+"Dashboard com filtro aplicado" (./Screenshot_20261016-081615_Chrome.png)
+
+
 📸 Evidências da dashboard
 
 Visão geral
