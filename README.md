@@ -20,7 +20,7 @@ Visão geral
 ![Dashboard](Screenshot_20261016-081534_Chrome.png)
 
 Exemplo de filtro aplicado
-"Dashboard com filtro aplicado" (Screenshot_20261016-081615_Chrome.png)
+![Dashboard](Screenshot_20261016-081615_Chrome.png)
 
 
 Uso da IA e evolução do prompt
